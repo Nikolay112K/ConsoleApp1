@@ -1,6 +1,0 @@
-C:\Users\Nik\source\repos\ConsoleApp1\SomeStrangeClass\bin\Debug\SomeStrangeClass.dll
-C:\Users\Nik\source\repos\ConsoleApp1\SomeStrangeClass\bin\Debug\SomeStrangeClass.pdb
-C:\Users\Nik\source\repos\ConsoleApp1\SomeStrangeClass\obj\Debug\SomeStrangeClass.csprojAssemblyReference.cache
-C:\Users\Nik\source\repos\ConsoleApp1\SomeStrangeClass\obj\Debug\SomeStrangeClass.csproj.CoreCompileInputs.cache
-C:\Users\Nik\source\repos\ConsoleApp1\SomeStrangeClass\obj\Debug\SomeStrangeClass.dll
-C:\Users\Nik\source\repos\ConsoleApp1\SomeStrangeClass\obj\Debug\SomeStrangeClass.pdb
