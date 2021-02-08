@@ -1,9 +1,12 @@
 ﻿using System;
 
-namespace Vehicle
+namespace Vehicle 
 {
     public class TechnicalVehicle
     {
         public string EnergySource;
+        public string Construction;
+        public string ControlTool;
+
     }
 }

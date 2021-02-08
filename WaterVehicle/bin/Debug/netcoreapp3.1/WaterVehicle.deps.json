@@ -7,14 +7,41 @@
   "targets": {
     ".NETCoreApp,Version=v3.1": {
       "WaterVehicle/1.0.0": {
+        "dependencies": {
+          "ConsoleApp1": "1.0.0",
+          "Vehicle": "1.0.0"
+        },
         "runtime": {
           "WaterVehicle.dll": {}
+        }
+      },
+      "ConsoleApp1/1.0.0": {
+        "runtime": {
+          "ConsoleApp1.dll": {}
+        }
+      },
+      "Vehicle/1.0.0": {
+        "dependencies": {
+          "ConsoleApp1": "1.0.0"
+        },
+        "runtime": {
+          "Vehicle.dll": {}
         }
       }
     }
   },
   "libraries": {
     "WaterVehicle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConsoleApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Vehicle/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

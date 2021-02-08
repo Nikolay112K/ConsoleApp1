@@ -6,3 +6,8 @@ C:\Users\Nik\source\repos\ConsoleApp1\Vehicle\obj\Debug\netcoreapp3.1\Vehicle.As
 C:\Users\Nik\source\repos\ConsoleApp1\Vehicle\obj\Debug\netcoreapp3.1\Vehicle.csproj.CoreCompileInputs.cache
 C:\Users\Nik\source\repos\ConsoleApp1\Vehicle\obj\Debug\netcoreapp3.1\Vehicle.dll
 C:\Users\Nik\source\repos\ConsoleApp1\Vehicle\obj\Debug\netcoreapp3.1\Vehicle.pdb
+C:\Users\Nik\source\repos\ConsoleApp1\Vehicle\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\Nik\source\repos\ConsoleApp1\Vehicle\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\Nik\source\repos\ConsoleApp1\Vehicle\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\Nik\source\repos\ConsoleApp1\Vehicle\obj\Debug\netcoreapp3.1\Vehicle.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\ConsoleApp1\Vehicle\obj\Debug\netcoreapp3.1\Vehicle.csproj.CopyComplete

@@ -7,3 +7,9 @@ C:\Users\Nik\source\repos\ConsoleApp1\GroundVehicles\obj\Debug\netcoreapp3.1\Gro
 C:\Users\Nik\source\repos\ConsoleApp1\GroundVehicles\obj\Debug\netcoreapp3.1\GroundVehicles.dll
 C:\Users\Nik\source\repos\ConsoleApp1\GroundVehicles\obj\Debug\netcoreapp3.1\GroundVehicles.pdb
 C:\Users\Nik\source\repos\ConsoleApp1\GroundVehicles\obj\Debug\netcoreapp3.1\GroundVehicles.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\ConsoleApp1\GroundVehicles\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\Nik\source\repos\ConsoleApp1\GroundVehicles\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\Nik\source\repos\ConsoleApp1\GroundVehicles\bin\Debug\netcoreapp3.1\Vehicle.dll
+C:\Users\Nik\source\repos\ConsoleApp1\GroundVehicles\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\Nik\source\repos\ConsoleApp1\GroundVehicles\bin\Debug\netcoreapp3.1\Vehicle.pdb
+C:\Users\Nik\source\repos\ConsoleApp1\GroundVehicles\obj\Debug\netcoreapp3.1\GroundVehicles.csproj.CopyComplete

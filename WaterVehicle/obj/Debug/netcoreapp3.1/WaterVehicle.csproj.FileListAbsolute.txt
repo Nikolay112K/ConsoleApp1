@@ -6,3 +6,9 @@ C:\Users\Nik\source\repos\ConsoleApp1\WaterVehicle\obj\Debug\netcoreapp3.1\Water
 C:\Users\Nik\source\repos\ConsoleApp1\WaterVehicle\obj\Debug\netcoreapp3.1\WaterVehicle.csproj.CoreCompileInputs.cache
 C:\Users\Nik\source\repos\ConsoleApp1\WaterVehicle\obj\Debug\netcoreapp3.1\WaterVehicle.dll
 C:\Users\Nik\source\repos\ConsoleApp1\WaterVehicle\obj\Debug\netcoreapp3.1\WaterVehicle.pdb
+C:\Users\Nik\source\repos\ConsoleApp1\WaterVehicle\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\Nik\source\repos\ConsoleApp1\WaterVehicle\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\Nik\source\repos\ConsoleApp1\WaterVehicle\bin\Debug\netcoreapp3.1\Vehicle.dll
+C:\Users\Nik\source\repos\ConsoleApp1\WaterVehicle\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\Nik\source\repos\ConsoleApp1\WaterVehicle\bin\Debug\netcoreapp3.1\Vehicle.pdb
+C:\Users\Nik\source\repos\ConsoleApp1\WaterVehicle\obj\Debug\netcoreapp3.1\WaterVehicle.csproj.CopyComplete
