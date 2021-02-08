@@ -27,11 +27,7 @@
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
-            "projectReferences": {
-              "C:\\Users\\Nik\\source\\repos\\ConsoleApp1\\SomeStrangeClass\\SomeStrangeClass.csproj": {
-                "projectPath": "C:\\Users\\Nik\\source\\repos\\ConsoleApp1\\SomeStrangeClass\\SomeStrangeClass.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {
@@ -60,16 +56,6 @@
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
-      }
-    },
-    "C:\\Users\\Nik\\source\\repos\\ConsoleApp1\\SomeStrangeClass\\SomeStrangeClass.csproj": {
-      "restore": {
-        "projectUniqueName": "C:\\Users\\Nik\\source\\repos\\ConsoleApp1\\SomeStrangeClass\\SomeStrangeClass.csproj",
-        "projectName": "SomeStrangeClass",
-        "projectPath": "C:\\Users\\Nik\\source\\repos\\ConsoleApp1\\SomeStrangeClass\\SomeStrangeClass.csproj"
-      },
-      "frameworks": {
-        "net472": {}
       }
     }
   }
