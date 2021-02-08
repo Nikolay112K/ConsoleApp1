@@ -2,7 +2,7 @@
 
 namespace WaterVehicle
 {
-    public class WaterVehicle
+    public class WaterVehicle 
     {
 
     }

@@ -4,6 +4,6 @@ namespace Vehicle
 {
     public class TechnicalVehicle
     {
-        public string EnergySour;
+        public string EnergySource;
     }
 }

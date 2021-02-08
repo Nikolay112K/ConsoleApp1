@@ -6,3 +6,4 @@ C:\Users\Nik\source\repos\ConsoleApp1\GroundVehicles\obj\Debug\netcoreapp3.1\Gro
 C:\Users\Nik\source\repos\ConsoleApp1\GroundVehicles\obj\Debug\netcoreapp3.1\GroundVehicles.csproj.CoreCompileInputs.cache
 C:\Users\Nik\source\repos\ConsoleApp1\GroundVehicles\obj\Debug\netcoreapp3.1\GroundVehicles.dll
 C:\Users\Nik\source\repos\ConsoleApp1\GroundVehicles\obj\Debug\netcoreapp3.1\GroundVehicles.pdb
+C:\Users\Nik\source\repos\ConsoleApp1\GroundVehicles\obj\Debug\netcoreapp3.1\GroundVehicles.csprojAssemblyReference.cache
