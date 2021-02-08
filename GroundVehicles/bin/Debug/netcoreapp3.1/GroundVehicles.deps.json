@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "GroundVehicles/1.0.0": {
+        "runtime": {
+          "GroundVehicles.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GroundVehicles/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

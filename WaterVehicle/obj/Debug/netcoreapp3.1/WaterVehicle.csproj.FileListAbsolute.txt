@@ -1,0 +1,8 @@
+C:\Users\Nik\source\repos\ConsoleApp1\WaterVehicle\bin\Debug\netcoreapp3.1\WaterVehicle.deps.json
+C:\Users\Nik\source\repos\ConsoleApp1\WaterVehicle\bin\Debug\netcoreapp3.1\WaterVehicle.dll
+C:\Users\Nik\source\repos\ConsoleApp1\WaterVehicle\bin\Debug\netcoreapp3.1\WaterVehicle.pdb
+C:\Users\Nik\source\repos\ConsoleApp1\WaterVehicle\obj\Debug\netcoreapp3.1\WaterVehicle.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\ConsoleApp1\WaterVehicle\obj\Debug\netcoreapp3.1\WaterVehicle.AssemblyInfo.cs
+C:\Users\Nik\source\repos\ConsoleApp1\WaterVehicle\obj\Debug\netcoreapp3.1\WaterVehicle.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\ConsoleApp1\WaterVehicle\obj\Debug\netcoreapp3.1\WaterVehicle.dll
+C:\Users\Nik\source\repos\ConsoleApp1\WaterVehicle\obj\Debug\netcoreapp3.1\WaterVehicle.pdb

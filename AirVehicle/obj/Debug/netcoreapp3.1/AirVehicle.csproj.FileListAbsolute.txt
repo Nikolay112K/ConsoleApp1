@@ -1,0 +1,8 @@
+C:\Users\Nik\source\repos\ConsoleApp1\AirVehicle\bin\Debug\netcoreapp3.1\AirVehicle.deps.json
+C:\Users\Nik\source\repos\ConsoleApp1\AirVehicle\bin\Debug\netcoreapp3.1\AirVehicle.dll
+C:\Users\Nik\source\repos\ConsoleApp1\AirVehicle\bin\Debug\netcoreapp3.1\AirVehicle.pdb
+C:\Users\Nik\source\repos\ConsoleApp1\AirVehicle\obj\Debug\netcoreapp3.1\AirVehicle.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\ConsoleApp1\AirVehicle\obj\Debug\netcoreapp3.1\AirVehicle.AssemblyInfo.cs
+C:\Users\Nik\source\repos\ConsoleApp1\AirVehicle\obj\Debug\netcoreapp3.1\AirVehicle.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\ConsoleApp1\AirVehicle\obj\Debug\netcoreapp3.1\AirVehicle.dll
+C:\Users\Nik\source\repos\ConsoleApp1\AirVehicle\obj\Debug\netcoreapp3.1\AirVehicle.pdb

@@ -1,0 +1,8 @@
+C:\Users\Nik\source\repos\ConsoleApp1\Vehicle\bin\Debug\netcoreapp3.1\Vehicle.deps.json
+C:\Users\Nik\source\repos\ConsoleApp1\Vehicle\bin\Debug\netcoreapp3.1\Vehicle.dll
+C:\Users\Nik\source\repos\ConsoleApp1\Vehicle\bin\Debug\netcoreapp3.1\Vehicle.pdb
+C:\Users\Nik\source\repos\ConsoleApp1\Vehicle\obj\Debug\netcoreapp3.1\Vehicle.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\ConsoleApp1\Vehicle\obj\Debug\netcoreapp3.1\Vehicle.AssemblyInfo.cs
+C:\Users\Nik\source\repos\ConsoleApp1\Vehicle\obj\Debug\netcoreapp3.1\Vehicle.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\ConsoleApp1\Vehicle\obj\Debug\netcoreapp3.1\Vehicle.dll
+C:\Users\Nik\source\repos\ConsoleApp1\Vehicle\obj\Debug\netcoreapp3.1\Vehicle.pdb

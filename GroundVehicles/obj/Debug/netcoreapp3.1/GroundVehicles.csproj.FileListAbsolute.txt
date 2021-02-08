@@ -1,0 +1,8 @@
+C:\Users\Nik\source\repos\ConsoleApp1\GroundVehicles\bin\Debug\netcoreapp3.1\GroundVehicles.deps.json
+C:\Users\Nik\source\repos\ConsoleApp1\GroundVehicles\bin\Debug\netcoreapp3.1\GroundVehicles.dll
+C:\Users\Nik\source\repos\ConsoleApp1\GroundVehicles\bin\Debug\netcoreapp3.1\GroundVehicles.pdb
+C:\Users\Nik\source\repos\ConsoleApp1\GroundVehicles\obj\Debug\netcoreapp3.1\GroundVehicles.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\ConsoleApp1\GroundVehicles\obj\Debug\netcoreapp3.1\GroundVehicles.AssemblyInfo.cs
+C:\Users\Nik\source\repos\ConsoleApp1\GroundVehicles\obj\Debug\netcoreapp3.1\GroundVehicles.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\ConsoleApp1\GroundVehicles\obj\Debug\netcoreapp3.1\GroundVehicles.dll
+C:\Users\Nik\source\repos\ConsoleApp1\GroundVehicles\obj\Debug\netcoreapp3.1\GroundVehicles.pdb
