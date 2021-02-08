@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "GroundVehicles/1.0.0": {
+        "dependencies": {
+          "ConsoleApp1": "1.0.0",
+          "Vehicle": "1.0.0"
+        },
+        "runtime": {
+          "GroundVehicles.dll": {}
+        }
+      },
+      "ConsoleApp1/1.0.0": {
+        "runtime": {
+          "ConsoleApp1.dll": {}
+        }
+      },
+      "Vehicle/1.0.0": {
+        "dependencies": {
+          "ConsoleApp1": "1.0.0"
+        },
+        "runtime": {
+          "Vehicle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GroundVehicles/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConsoleApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Vehicle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

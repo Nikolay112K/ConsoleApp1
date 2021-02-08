@@ -26,11 +26,11 @@ namespace GroundVehicles
     public class Car
     {
         public string Engine { get; set; }
+        public string Transmission { get; set; }
         public int Doors { get; set; }
         public double Odometer { get; set; }
         public byte Seats { get; set; }
         public bool Roof { get; set; }
-        public char Transmission { get; set; }
         public bool WaterProof { get; set; }
     }
     public class AllTerrainVehicle
