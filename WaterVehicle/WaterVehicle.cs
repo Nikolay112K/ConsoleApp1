@@ -3,17 +3,14 @@ using Vehicle;
 
 namespace WaterVehicle
 {
-    public class WaterVehicle 
-    {
 
-    }
 }
 namespace Ship
 {
     public class Ship
     {
 
-        
+
     }
 }
 namespace Boat

@@ -3,10 +3,6 @@ using Vehicle;
 
 namespace GroundVehicles
 {
-    public class GroundVehicles
-    {
-
-    }
 }
 namespace KickScooter
 {
