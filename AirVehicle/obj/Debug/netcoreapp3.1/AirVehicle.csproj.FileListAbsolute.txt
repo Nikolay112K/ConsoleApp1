@@ -6,10 +6,7 @@ C:\Users\Nik\source\repos\ConsoleApp1\AirVehicle\obj\Debug\netcoreapp3.1\AirVehi
 C:\Users\Nik\source\repos\ConsoleApp1\AirVehicle\obj\Debug\netcoreapp3.1\AirVehicle.csproj.CoreCompileInputs.cache
 C:\Users\Nik\source\repos\ConsoleApp1\AirVehicle\obj\Debug\netcoreapp3.1\AirVehicle.dll
 C:\Users\Nik\source\repos\ConsoleApp1\AirVehicle\obj\Debug\netcoreapp3.1\AirVehicle.pdb
-C:\Users\Nik\source\repos\ConsoleApp1\AirVehicle\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
-C:\Users\Nik\source\repos\ConsoleApp1\AirVehicle\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
 C:\Users\Nik\source\repos\ConsoleApp1\AirVehicle\bin\Debug\netcoreapp3.1\Vehicle.dll
-C:\Users\Nik\source\repos\ConsoleApp1\AirVehicle\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
 C:\Users\Nik\source\repos\ConsoleApp1\AirVehicle\bin\Debug\netcoreapp3.1\Vehicle.pdb
 C:\Users\Nik\source\repos\ConsoleApp1\AirVehicle\obj\Debug\netcoreapp3.1\AirVehicle.csprojAssemblyReference.cache
 C:\Users\Nik\source\repos\ConsoleApp1\AirVehicle\obj\Debug\netcoreapp3.1\AirVehicle.csproj.CopyComplete

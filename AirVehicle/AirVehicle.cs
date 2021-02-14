@@ -1,17 +1,17 @@
 ﻿using System;
 using Vehicle;
 
-namespace AirVehicle
+namespace AirVehicle 
 {
-    public class Helicopter
+    public class Helicopter : TechnicalVehicle
     {
 
     }
-    public class Airship
+    public class Airship : TechnicalVehicle
     {
 
     }
-    public class Airplains
+    public class Airplains : TechnicalVehicle
     {
 
     }

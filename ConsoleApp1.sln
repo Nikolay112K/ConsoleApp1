@@ -6,27 +6,18 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{63425823-6A7D-45F3-A977-2CB4B755B6DB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vehicle", "Vehicle\Vehicle.csproj", "{411A2610-56FF-4B90-B542-EB7575816F83}"
-	ProjectSection(ProjectDependencies) = postProject
-		{63425823-6A7D-45F3-A977-2CB4B755B6DB} = {63425823-6A7D-45F3-A977-2CB4B755B6DB}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroundVehicles", "GroundVehicles\GroundVehicles.csproj", "{D3720A1A-7B44-4E31-B535-BA0AD9D0F7EB}"
 	ProjectSection(ProjectDependencies) = postProject
 		{411A2610-56FF-4B90-B542-EB7575816F83} = {411A2610-56FF-4B90-B542-EB7575816F83}
-		{63425823-6A7D-45F3-A977-2CB4B755B6DB} = {63425823-6A7D-45F3-A977-2CB4B755B6DB}
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirVehicle", "AirVehicle\AirVehicle.csproj", "{A2A53F6D-3400-4E42-B368-5B3A970D4DC9}"
 	ProjectSection(ProjectDependencies) = postProject
 		{411A2610-56FF-4B90-B542-EB7575816F83} = {411A2610-56FF-4B90-B542-EB7575816F83}
-		{63425823-6A7D-45F3-A977-2CB4B755B6DB} = {63425823-6A7D-45F3-A977-2CB4B755B6DB}
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaterVehicle", "WaterVehicle\WaterVehicle.csproj", "{12D94C32-958D-40E6-9D3D-E25FBECB9324}"
-	ProjectSection(ProjectDependencies) = postProject
-		{D3720A1A-7B44-4E31-B535-BA0AD9D0F7EB} = {D3720A1A-7B44-4E31-B535-BA0AD9D0F7EB}
-		{63425823-6A7D-45F3-A977-2CB4B755B6DB} = {63425823-6A7D-45F3-A977-2CB4B755B6DB}
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

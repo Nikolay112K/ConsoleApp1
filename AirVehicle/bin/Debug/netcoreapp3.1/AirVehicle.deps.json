@@ -8,22 +8,13 @@
     ".NETCoreApp,Version=v3.1": {
       "AirVehicle/1.0.0": {
         "dependencies": {
-          "ConsoleApp1": "1.0.0",
           "Vehicle": "1.0.0"
         },
         "runtime": {
           "AirVehicle.dll": {}
         }
       },
-      "ConsoleApp1/1.0.0": {
-        "runtime": {
-          "ConsoleApp1.dll": {}
-        }
-      },
       "Vehicle/1.0.0": {
-        "dependencies": {
-          "ConsoleApp1": "1.0.0"
-        },
         "runtime": {
           "Vehicle.dll": {}
         }
@@ -32,11 +23,6 @@
   },
   "libraries": {
     "AirVehicle/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "ConsoleApp1/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
