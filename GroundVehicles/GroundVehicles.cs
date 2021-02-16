@@ -34,20 +34,37 @@ namespace GroundVehicles
         public bool WaterProof;
         public double MaxSpeed;
         public int Wheels;
-        public double Tank;
-        public Car() { EngineHealth = "Unknown"; Transmission = "Unknown"; Doors = 2; Odometer = 0; Seats = 2; Roof = true; WaterProof = true; MaxSpeed = 100; Wheels = 4; Tank = 1.5; }
-        public void CarCrash()
+        public double TankCapacity;
+        public string QualityOfSparkPlug;
+        public byte BatteryChargeInPercent;
+        public Car() : this("Unknown", "Unknown", 2, 0, 2, true, true, 100, 4, 1.5, "100", 100){}
+        public Car(string EngineHealth, string Transmission, int Doors, double Odometer, byte Seats, bool Roof, bool WaterProof, double MaxSpeed, int Wheels, double TankCapacity, string QualityOfSparkPlug, byte BatteryChargeInPercent) {
+            this.EngineHealth = EngineHealth;
+            this.Transmission = Transmission;
+            this.Odometer = Odometer;
+            this.Doors = Doors;
+            this.Seats = Seats;
+            this.Roof = Roof;
+            this.WaterProof = WaterProof;
+            this.MaxSpeed = MaxSpeed;
+            this.Wheels = Wheels;
+            this.TankCapacity = TankCapacity;
+            this.QualityOfSparkPlug = QualityOfSparkPlug;
+            this.BatteryChargeInPercent = BatteryChargeInPercent;
+        }
+        public void CarTesting()
         {
-            string engineHealth = EngineHealth;
-            string transmission = Transmission;
-            int doors = Doors;
-            byte seats = Seats;
-            bool roof = Roof;
-            bool waterProof = WaterProof;
-            double maxSpeed = MaxSpeed;
-            int wheels = Wheels;
-            double tank = Tank;
-
+            bool WillTheCarStart;
+            if (QualityOfSparkPlug == "100" && BatteryChargeInPercent == 100)
+            {
+                WillTheCarStart = true;
+                Console.WriteLine($"Will The car Start? :{WillTheCarStart}");
+            }
+            else
+            {
+                WillTheCarStart = false;
+                Console.WriteLine($"Will The car Start? :{WillTheCarStart}");
+            }
         }
 
     }
