@@ -11,3 +11,12 @@ C:\Users\Nik\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Consol
 C:\Users\Nik\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
 C:\Users\Nik\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
 C:\Users\Nik\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\AirVehicle.dll
+C:\Users\Nik\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\GroundVehicles.dll
+C:\Users\Nik\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Vehicle.dll
+C:\Users\Nik\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\WaterVehicle.dll
+C:\Users\Nik\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\AirVehicle.pdb
+C:\Users\Nik\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\GroundVehicles.pdb
+C:\Users\Nik\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\WaterVehicle.pdb
+C:\Users\Nik\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Vehicle.pdb
+C:\Users\Nik\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CopyComplete

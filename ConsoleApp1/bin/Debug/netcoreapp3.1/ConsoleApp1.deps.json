@@ -7,14 +7,68 @@
   "targets": {
     ".NETCoreApp,Version=v3.1": {
       "ConsoleApp1/1.0.0": {
+        "dependencies": {
+          "AirVehicle": "1.0.0",
+          "GroundVehicles": "1.0.0",
+          "WaterVehicle": "1.0.0"
+        },
         "runtime": {
           "ConsoleApp1.dll": {}
+        }
+      },
+      "AirVehicle/1.0.0": {
+        "dependencies": {
+          "Vehicle": "1.0.0"
+        },
+        "runtime": {
+          "AirVehicle.dll": {}
+        }
+      },
+      "GroundVehicles/1.0.0": {
+        "dependencies": {
+          "Vehicle": "1.0.0"
+        },
+        "runtime": {
+          "GroundVehicles.dll": {}
+        }
+      },
+      "Vehicle/1.0.0": {
+        "runtime": {
+          "Vehicle.dll": {}
+        }
+      },
+      "WaterVehicle/1.0.0": {
+        "dependencies": {
+          "Vehicle": "1.0.0"
+        },
+        "runtime": {
+          "WaterVehicle.dll": {}
         }
       }
     }
   },
   "libraries": {
     "ConsoleApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AirVehicle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GroundVehicles/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Vehicle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WaterVehicle/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

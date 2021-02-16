@@ -1,11 +1,86 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "AirVehicle/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Vehicle": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/AirVehicle.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AirVehicle.dll": {}
+        }
+      },
+      "GroundVehicles/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Vehicle": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/GroundVehicles.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GroundVehicles.dll": {}
+        }
+      },
+      "Vehicle/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Vehicle.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Vehicle.dll": {}
+        }
+      },
+      "WaterVehicle/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Vehicle": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/WaterVehicle.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WaterVehicle.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "AirVehicle/1.0.0": {
+      "type": "project",
+      "path": "../AirVehicle/AirVehicle.csproj",
+      "msbuildProject": "../AirVehicle/AirVehicle.csproj"
+    },
+    "GroundVehicles/1.0.0": {
+      "type": "project",
+      "path": "../GroundVehicles/GroundVehicles.csproj",
+      "msbuildProject": "../GroundVehicles/GroundVehicles.csproj"
+    },
+    "Vehicle/1.0.0": {
+      "type": "project",
+      "path": "../Vehicle/Vehicle.csproj",
+      "msbuildProject": "../Vehicle/Vehicle.csproj"
+    },
+    "WaterVehicle/1.0.0": {
+      "type": "project",
+      "path": "../WaterVehicle/WaterVehicle.csproj",
+      "msbuildProject": "../WaterVehicle/WaterVehicle.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "AirVehicle >= 1.0.0",
+      "GroundVehicles >= 1.0.0",
+      "WaterVehicle >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Nik\\.nuget\\packages\\": {}
@@ -33,7 +108,17 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Nik\\source\\repos\\ConsoleApp1\\AirVehicle\\AirVehicle.csproj": {
+              "projectPath": "C:\\Users\\Nik\\source\\repos\\ConsoleApp1\\AirVehicle\\AirVehicle.csproj"
+            },
+            "C:\\Users\\Nik\\source\\repos\\ConsoleApp1\\GroundVehicles\\GroundVehicles.csproj": {
+              "projectPath": "C:\\Users\\Nik\\source\\repos\\ConsoleApp1\\GroundVehicles\\GroundVehicles.csproj"
+            },
+            "C:\\Users\\Nik\\source\\repos\\ConsoleApp1\\WaterVehicle\\WaterVehicle.csproj": {
+              "projectPath": "C:\\Users\\Nik\\source\\repos\\ConsoleApp1\\WaterVehicle\\WaterVehicle.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -68,11 +68,8 @@ namespace GroundVehicles
                 WillTheCarStart = false;
                 Console.WriteLine($"Will The car Start? :{WillTheCarStart}");
             }
-            if (true)
-            {
                 DistanceInKM = MaxSpeed / TankCapacity;
                 Console.WriteLine($"How many kilometers this car will go? :{DistanceInKM}");
-            }
         }
 
     }

@@ -5,4 +5,10 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\AirVehicle\AirVehicle.csproj" />
+    <ProjectReference Include="..\GroundVehicles\GroundVehicles.csproj" />
+    <ProjectReference Include="..\WaterVehicle\WaterVehicle.csproj" />
+  </ItemGroup>
+
 </Project>
