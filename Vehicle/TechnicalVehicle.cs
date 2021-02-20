@@ -7,6 +7,5 @@ namespace Vehicle
         public string EnergySource;
         public string Construction;
         public string ControlTool;
-
     }
 }
