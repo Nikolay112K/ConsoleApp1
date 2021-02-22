@@ -3,14 +3,18 @@ using Vehicle;
 
 namespace GroundVehicles
 {
+    public class Wheels
+    {
+        public int NumberOfWheels = 4;
+    }
     public class KickScooter : TechnicalVehicle
     {
         public string MotorHealth;
-        public int NumberOfWheels;
+        public Wheels Wheels { get; set; }
     }
     public class Bike : TechnicalVehicle
     {
-        public int Wheels;
+        public Wheels Wheels { get; set; }
         public int Gears;
         public int Seat;
         public string RamHealth;
@@ -21,6 +25,7 @@ namespace GroundVehicles
     }
     public class Moped : TechnicalVehicle
     {
+        public Wheels Wheels { get; set; }
         public string Engine;
         public int Seat;
         public int Trunk;
@@ -28,6 +33,7 @@ namespace GroundVehicles
     }
     public class Motorcycle : TechnicalVehicle
     {
+        public Wheels Wheels { get; set; }
         public string Engine;
         public int Seat;
         public int Trunk;
@@ -35,15 +41,12 @@ namespace GroundVehicles
     }   
     public class Scooter : TechnicalVehicle
     {
+        public Wheels Wheels { get; set; }
         public string EngineHealth;
         public int Seat;
         public int Trunk;
         public int Gear;
 
-    }
-    public class Wheels
-    {
-        public int NumberOfWheels = 4;
     }
     public class Car : TechnicalVehicle
     {
@@ -57,7 +60,6 @@ namespace GroundVehicles
         public bool Roof;
         public bool WaterProof;
         public double MaxSpeed;
-        public int Wheels;
         public double TankCapacity;
         public string QualityOfSparkPlug;
         public byte BatteryChargeInPercent;
@@ -119,7 +121,7 @@ namespace GroundVehicles
     {
         public string DCMotorHealth;
         public int Window;
-        public int WheelHealth;
+        public Wheels Wheels { get; set; }
         public string ArrowHealth;
         public string EngineHealth;
         public string BodyHealth;
@@ -129,6 +131,7 @@ namespace GroundVehicles
     }
     public class Trum : TechnicalVehicle
     {
+        public Wheels Wheels { get; set; }
         public string EngineHealth;
         public int Seats;
         public string BodyHealth;
@@ -139,7 +142,7 @@ namespace GroundVehicles
         public string EngineHealth;
         public int Seats;
         public string BodyHealth;
-        public int Wheels;
+        public Wheels Wheels { get; set; }
         public int Lights;
         public string MirrorsHealth;
     }
