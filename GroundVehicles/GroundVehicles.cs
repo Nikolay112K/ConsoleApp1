@@ -32,7 +32,7 @@ namespace GroundVehicles
         public int Seat;
         public int Trunk;
         public int Gear;
-    }
+    }   
     public class Scooter : TechnicalVehicle
     {
         public string EngineHealth;
@@ -41,8 +41,14 @@ namespace GroundVehicles
         public int Gear;
 
     }
+    public class Wheels
+    {
+        public int NumberOfWheels = 4;
+    }
     public class Car : TechnicalVehicle
     {
+        public Wheels Wheels { get; set; }
+        public static int CountOfRam = 1;
         public string EngineHealth;
         public string Transmission;
         public int Doors;
@@ -55,8 +61,8 @@ namespace GroundVehicles
         public double TankCapacity;
         public string QualityOfSparkPlug;
         public byte BatteryChargeInPercent;
-        public Car() : this("Unknown", "Unknown", 2, 0, 2, true, true, 100, 4, 1.5, "100", 100) { }
-        public Car(string EngineHealth, string Transmission, int Doors, double Odometer, byte Seats, bool Roof, bool WaterProof, double MaxSpeed, int Wheels, double TankCapacity, string QualityOfSparkPlug, byte BatteryChargeInPercent)
+        public Car() : this("Unknown", "Unknown", 2, 0, 2, true, true, 100, 1.5, "100", 100) { }
+        public Car(string EngineHealth, string Transmission, int Doors, double Odometer, byte Seats, bool Roof, bool WaterProof, double MaxSpeed, double TankCapacity, string QualityOfSparkPlug, byte BatteryChargeInPercent)
         {
             this.EngineHealth = EngineHealth;
             this.Transmission = Transmission;
@@ -66,7 +72,6 @@ namespace GroundVehicles
             this.Roof = Roof;
             this.WaterProof = WaterProof;
             this.MaxSpeed = MaxSpeed;
-            this.Wheels = Wheels;
             this.TankCapacity = TankCapacity;
             this.QualityOfSparkPlug = QualityOfSparkPlug;
             this.BatteryChargeInPercent = BatteryChargeInPercent;
@@ -91,9 +96,7 @@ namespace GroundVehicles
                 DistanceInKM = MaxSpeed / TankCapacity;
                 Console.WriteLine($"How many kilometers this car will go? :{DistanceInKM}");
             }
-
         }
-
     }
     public class AllTerrainVehicle : TechnicalVehicle
     {
@@ -123,7 +126,6 @@ namespace GroundVehicles
         public int Seats;
         public int Mirrors;
         public int Lights;
-
     }
     public class Trum : TechnicalVehicle
     {
